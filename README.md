@@ -59,3 +59,21 @@ For a basic dataset, collect at least ten crops for each of three box types. Kee
 Generated images and tables are saved under `outputs/`. Input videos, calibration photos, and crop datasets are not included in this repository.
 
 This is a practical student project. Results depend on lighting, camera position, background, and the quality of the input video.
+
+## 👤 Author
+
+**Bansari Patel**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Bansaripatel02-181717?style=flat-square&logo=github)](https://github.com/Bansaripatel02)
+
+---
+
+<div align="center">
+
+**If this project helped you, please consider giving it a ⭐ — it really helps!**
+
+*Built as part of a Data Science & Python portfolio · Data from Yahoo Finance*
+
+*⚠️ For educational purposes only · Not financial advice*
+
+</div>
